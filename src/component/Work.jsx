@@ -83,7 +83,8 @@ function Work(props) {
                     </div>
                     <h3>TMA Solutions</h3>
                     <div className="color-gray">Fresher Front-End Developer</div>
-                    <div className="color-gray mr-top-1rem">Start: 01/12/2021</div>
+                    <div className="color-gray mr-top-1rem">Start: 06/09/2021</div>
+                    <div className="color-gray mr-top-1rem">End: 20/05/2022</div>
                 </div>
             }
         </div>
